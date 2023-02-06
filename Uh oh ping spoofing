@@ -384,7 +384,7 @@ end)
 Tab1:Button("Area 51",function()
     loadstring(game:HttpGet('https://pastebin.com/raw/TtdvYAKU'))()
 end)
-Tab1:Button(",Edward the man eating ",function()
+Tab1:Button("Edward the man eating ",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/6ZdbXUcL"))()
 end)
 ---Races
