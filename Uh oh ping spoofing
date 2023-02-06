@@ -478,6 +478,14 @@ end)
 Tab1:Button("Skywars",function()
 loadstring(game:HttpGet("https://paste.ee/r/r9gnA", true))()
 end)
+Tab1:Button("Bloody baseplate",function()
+while true do
+	wait(0)
+
+game:GetService("Players").LocalPlayer.leaderstats.Kills.Value = 10000000
+
+end
+end)
 ---Towers and obbys
 Tab1 = Library:Tab("Towers and obbys")
 Tab1:Button("Tower of madness",function()
