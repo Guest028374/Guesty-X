@@ -410,6 +410,9 @@ end)
 Tab1:Button("Flappy bird clicker",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0flappyrace", true))()
 end)
+Tab1:Button("Ski race",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0ski", true))()
+end)
 ---Prison
 Tab1 = Library:Tab("Prison")
 Tab1:Button("Prison breakers",function()
@@ -483,7 +486,6 @@ while true do
 	wait(0)
 
 game:GetService("Players").LocalPlayer.leaderstats.Kills.Value = 10000000
-
 end
 end)
 ---Towers and obbys
