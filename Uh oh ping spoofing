@@ -183,6 +183,9 @@ end)
 Tab1:Button("Street soccer",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/hussain1323232234/My-Scripts/main/Street%20Soccer'))()
 end)
+Tab1:Button("Boxing beta inf saitama",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/wM03TQSQ"))();
+end)
 ---Simulators
 Tab1 = Library:Tab("Simulators")
 Tab1:Button("Burp sim",function()
