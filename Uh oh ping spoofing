@@ -544,6 +544,9 @@ end)
 Tab1:Button("Reach gui",function()
 loadstring(game:tHttpGet("https://raw.githubusercontent.com/OptioniaI/Best-SF-GUI/main/Best-Script"))();
 end)
+Tab1:Button("Sword abuse",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/j1Rnpe3e", true))()
+end)
 Tab1:Button("Esp gui",function()
     loadstring(game:HttpGet("https://pastebin.com/raw/bJzWkQAe",true))();
 end)
