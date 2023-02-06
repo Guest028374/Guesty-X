@@ -360,6 +360,9 @@ end)
 Tab1:Button("Piggy",function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Piggy'),true))()
 end)
+Tab1:Button("Piggy script 2",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/hNimRgLR"))();
+end)
 Tab1:Button("Break in",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RubyBoo4life/break-in-v1/main/.gitignore"))();
 end)
