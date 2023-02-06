@@ -542,7 +542,7 @@ Tab1:Button("Hitbox gui",function()
     loadstring(game:HttpGet('https://pastebin.com/raw/9TUC8RXA'))()
 end)
 Tab1:Button("Reach gui",function()
-loadstring(game:tHttpGet("https://raw.githubusercontent.com/OptioniaI/Best-SF-GUI/main/Best-Script"))();
+loadstring(game:tHttpGet("https://raw.githubusercontent.com/OptioniaI/BESTFREESCRIPT/main/FREESAAFYTOO"))();
 end)
 Tab1:Button("Sword abuse",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/j1Rnpe3e", true))()
