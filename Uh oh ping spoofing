@@ -186,6 +186,9 @@ end)
 Tab1:Button("Boxing beta inf saitama",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/wM03TQSQ"))();
 end)
+Tab1:Button("Sharkbite 2",function()
+loadstring(game:HttpGet('https://ppearl.vercel.app'))()
+end)
 ---Simulators
 Tab1 = Library:Tab("Simulators")
 Tab1:Button("Burp sim",function()
