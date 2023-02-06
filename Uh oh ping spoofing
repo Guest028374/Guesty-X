@@ -268,7 +268,7 @@ end)
 Tab1:Button("Restaurant tycoon 2",function()
     loadstring(game:HttpGet("https://pastebin.com/raw/8cjedKnR"))();
 end)
-Tab1:Button("Restaurant tycoon 2",function()
+Tab1:Button("Restaurant tycoon 2 script 2",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/uAZf15LR"))()
 end)
 Tab1:Button("Ultra power tycoon",function()
