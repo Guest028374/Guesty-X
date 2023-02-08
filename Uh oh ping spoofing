@@ -195,6 +195,9 @@ end)
 Tab1:Button("Sharkbite 2",function()
 loadstring(game:HttpGet('https://ppearl.vercel.app'))()
 end)
+Tab1:Button("Escape running head",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/RNWE5eiw"))();
+end)
 ---Simulators
 Tab1 = Library:Tab("Simulators")
 Tab1:Button("Burp sim",function()
