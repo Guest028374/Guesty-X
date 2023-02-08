@@ -283,6 +283,9 @@ end)
 Tab1:Button("Lumber tycoon 2 script 2",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/butter-hub/main/Butterhub.txt'))()
 end)
+Tab1:Button("Lumber tycoon 2 bring trees",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/3kSn7yAD"))();
+end)
 Tab1:Button("Restaurant tycoon 2",function()
     loadstring(game:HttpGet("https://pastebin.com/raw/8cjedKnR"))();
 end)
