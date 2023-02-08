@@ -647,6 +647,9 @@ end)
 Tab1:Button("Fps booster[FOR BAD DEVICE OR WIFI]",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/J4fjE5BV"))();
 end)
+Tab1:Button("Potato graphic/anti lag",function()
+loadstring(game:HttpGet"https://pastebin.com/raw/fhpaGR50"))();
+end)
 Tab1:Button("Autoclick",function()
     loadstring(game:HttpGet("https://pastebin.com/raw/rnZNqeEv"))();
 end)
