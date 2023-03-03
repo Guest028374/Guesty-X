@@ -196,13 +196,10 @@ Tab1:Button("Escape running head",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/RNWE5eiw"))();
 end)
 Tab1:Button("Speedrun 4",function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/dragonismcode/robloxscripts/main/speedrun4.lua'))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/dragonismcode/robloxscripts/main/speedrun4.lua"))();
 end)
 Tab1:Button("Find a marker",function()
 loadstring(game:HttpGet('https://pastebin.com/raw/7gu2ztpP'))()
-end)
-Tab1:Button("Rate my avatar",function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/7Vexxed/My-Scripts/main/RMA%20Script.lua'))()
 end)
 ---Simulators
 Tab1 = Library:Tab("Simulators")
